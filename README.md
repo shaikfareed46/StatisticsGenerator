@@ -24,10 +24,6 @@ This project is spring boot project so its fairly simple to run.
 
 * ###### You can also run the application using command line by executing
 
-```
-cd statisticGenerator
-```
-
 Build the project
 
 ```
